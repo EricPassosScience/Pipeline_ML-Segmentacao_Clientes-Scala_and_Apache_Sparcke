@@ -2,7 +2,7 @@
 Nesta ocasião trabalharemos com Linguagem Scala para construir um pipeline de Machine Learning, com o objetivo de realizar a segmentação automática de clientes. Usaremos aprendizado não supervisionado com o Apache Spark. 
 
 ### Objetivo
-Nossa tarefa será tentar agrupar clientes de uma Rede de Lojas de Varejo, com base nas vendas de algumas categorias de produtos.
+Nossa tarefa será tentar agrupar clientes de uma Rede de Lojas de Varejo, com base nas vendas de algumas categorias de produtos. Para tanto, usaremos o algoritmo KMeans -> https://spark.apache.org/docs/latest/api/scala/org/apache/spark/ml/clustering/KMeans.html
 
 ### Fonte de Dados 
 -> http://archive.ics.uci.edu/ml/datasets/Wholesale+customers
@@ -23,7 +23,7 @@ Nossa tarefa será tentar agrupar clientes de uma Rede de Lojas de Varejo, com b
 En esta ocasión trabajaremos con Scala Language para construir un pipeline de Machine Learning, con el objetivo de realizar una segmentación automática de clientes. Usaremos el aprendizaje no supervisado con Apache Spark.
 
 ### Objetivo
-Nuestra tarea será intentar agrupar a los clientes de una Red de Tiendas Minoristas, en base a las ventas de algunas categorías de productos.
+Nuestra tarea será intentar agrupar a los clientes de una Red de Tiendas Minoristas, en base a las ventas de algunas categorías de productos. Para ello, utilizaremos el algoritmo KMeans -> https://spark.apache.org/docs/latest/api/scala/org/apache/spark/ml/clustering/KMeans.html
 
 ### Fuente de datos
 -> http://archive.ics.uci.edu/ml/datasets/Wholesale+customers
